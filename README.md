@@ -8,6 +8,7 @@ ANNAVQA code for the following papers:
   2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 1429-1433, doi: 10.1109/ICIP42928.2021.9506408.
   
 ## Test Demo
+The test video should be provided in raw `YUV 4:2:0` format. The test audio should be provided in `wav` format.
 ### Saliency Detection
 You should first run sal_position.m in Matlab to get `test_position.mat`.
 ```
